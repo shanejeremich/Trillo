@@ -1,6 +1,6 @@
 # Trillo
 
-You can find the deployed project at [Trillo](https://sjeremich23.github.io/Trillo/)
+You can find the deployed project at [Trillo](https://shanejeremich.github.io/Trillo/)
 
 ## Overview
 
@@ -19,8 +19,8 @@ See hover states for all interactive elements on the page
 
 |                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
-|                          [<img src="img/shane.png" width = "200" />](https://github.com/sjeremich23)                           |
-|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sjeremich23)                    |
+|                          [<img src="img/shane.png" width = "200" />](https://github.com/shanejeremich)                           |
+|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shanejeremich)                    |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/shanejeremich/) |
 
 <br>
@@ -37,7 +37,7 @@ See hover states for all interactive elements on the page
 
 ### Front end deployed to `GitHub Pages`
 
-> [Trillo](https://sjeremich23.github.io/Trillo/)
+> [Trillo](https://shanejeremich.github.io/Trillo/)
 
 # Getting Started
 
